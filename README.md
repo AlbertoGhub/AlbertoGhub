@@ -1,5 +1,5 @@
 <div align="center">
-  <img width=”200" height=”200" src=”[https://github.com/AlbertoGhub/AlbertoGhub/blob/main/Banner.png](https://i.postimg.cc/130b3Bh0/Banner.png)" alt=”my banner”>
+  <img width=”200" height=”200" src=”[https://github.com/AlbertoGhub/AlbertoGhub/blob/main/Banner.png](https://i.postimg.cc/130b3Bh0/Banner.png)" alt=”my banner” />
 </div>
 
 ###
