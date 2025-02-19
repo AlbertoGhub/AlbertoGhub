@@ -1,6 +1,8 @@
-<div align="center">
+
+<p align=”center”>
   <img src=”[https://github.com/AlbertoGhub/AlbertoGhub/blob/main/Banner.png](https://i.postimg.cc/130b3Bh0/Banner.png)" alt=”my banner” />
-</div>
+</p>
+
 
 ###
 
