@@ -1,75 +1,80 @@
-
-<div align=”center”>
-  <img width="1834" alt="Banner" src="https://github.com/user-attachments/assets/716c98ee-2198-44ee-90b4-f08603985d6b" />
+<div align="center">
+  <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/716c98ee-2198-44ee-90b4-f08603985d6b" />
 </div>
-
-
-###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/YOUR_CHANNEL">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
+  </a>
 </div>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AlbertoGhub.AlbertoGhub&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AlbertoGhub.AlbertoGhub" />
 </div>
 
-###
+---
 
 <h1 align="center">Hey there 👋</h1>
 
-###
+<h3 align="center">AI/ML Engineer | M.Sc. in AI Technology | Passionate about LLMs, NLP & RAG Systems 🚀</h3>
 
-<h3 align="left">👩‍💻  AI/ML Engineer with a Master’s in AI Technology. Passionate about building and optimising Machine Learning models, LLMs, and Retrieval-Augmented Generation (RAG) systems.</h3>
+---
 
-###
+### 👨‍💻 About Me
 
-<p align="left">My name is Alberto and I am from Colombia.<br><br>- 🔭 I’m working on AI-driven solutions, ML model optimisation and advanced NLP techniques and LLM applications.<br>- 🤝 Looking to Collaborate on Open-source AI/ML projects, research in LLM fine-tuning and RAG systems.<br>-❓ Looking for Help With Improving my coding skills, enhancing AI model efficiency and designing scalable and production-ready ML deployments<br>- 📚 I'm currently learning to expand my expertise in Generative AI and Improving my skills in French, German, Italian, and Portuguese.<br>-💡 Ask Me About Machine Learning, NLP, RAG and LangChain, TensorFlow, and LLM fine-tuning.</p>
+- 🇨🇴🇬🇧 Based in the UK.
+- 🔭 Currently working on AI-driven solutions, ML model optimisation, and advanced NLP/LLM applications.
+- 🤝 Open to collaborating on open-source projects, time series forecasting, RAG systems, and LLM fine-tuning.
+- 📚 Learning more about Generative AI, AWS certification and practising German as a personal challenge.
+- 💡 Ask me about Machine Learning, LangChain, TensorFlow, NLP, RAG, and LLM fine-tuning.
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🧰 Languages & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="Matlab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlbertoGhub&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=AlbertoGhub&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak Stats" />
 </div>
 
-###
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertoGhub&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+
+
+---
+
+### 📂 Featured Projects
+
+Here are a few highlighted repositories worth checking out:
+
+- 🔍 **[Chat with your PDF with a Streamlit interface](https://github.com/AlbertoGhub/chat-with-your-pdf)** – A Streamlit app using RAG + Ollama + LangChain for document-based QA.
+- 🧠 **[Loan Prediction](https://github.com/AlbertoGhub/Loan-Prediction)** – Tools and scripts to fine-tune LLMs on custom datasets.
+- 🌱🔋🤖🌍 **[Energy Consumption and Carbon Emission Forecasting](https://github.com/AlbertoGhub/Energy-Consumption-and-Carbon-Emission-Forecasting)** – Forecasting energy consumption and carbon emissions using machine learning for sustainable insights.
+
+Feel free to explore more on my [GitHub repositories](https://github.com/AlbertoGhub?tab=repositories) page! 🚀
+
