@@ -61,7 +61,7 @@ Here are a few highlighted repositories worth checking out:
 - 🧠 **[Loan Prediction](https://github.com/AlbertoGhub/Loan-Prediction)** – Tools and scripts to fine-tune LLMs on custom datasets.
 - 🌱 **[Energy Consumption and Carbon Emission Forecasting](https://github.com/AlbertoGhub/Energy-Consumption-and-Carbon-Emission-Forecasting)** – Forecasting energy consumption and carbon emissions using machine learning for sustainable insights🔋.
 
-Feel free to explore more on my [GitHub repositories](https://github.com/AlbertoGhub?tab=repositories) page! 🚀
+Feel free to explore more on my **[GitHub repositories](https://github.com/AlbertoGhub?tab=repositories)** page! 🚀
 
 ---
 
