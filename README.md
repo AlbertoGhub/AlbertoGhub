@@ -53,21 +53,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlbertoGhub&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak Stats" />
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertoGhub&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-
-
----
-
 ### 📂 Featured Projects
 
 Here are a few highlighted repositories worth checking out:
@@ -78,3 +63,12 @@ Here are a few highlighted repositories worth checking out:
 
 Feel free to explore more on my [GitHub repositories](https://github.com/AlbertoGhub?tab=repositories) page! 🚀
 
+---
+
+### 🔥 GitHub Stats & Contribution Streak
+<p align="center">
+### 🔥 GitHub Stats & Contribution Streak
+<a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=AlbertoGhub&theme=dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</a>
+<p align="center">
