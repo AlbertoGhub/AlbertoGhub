@@ -65,10 +65,10 @@ Feel free to explore more on my **[GitHub repositories](https://github.com/Alber
 
 ---
 
-### 🔥 GitHub Stats & Contribution Streak
+<h3 align="center">🔥 GitHub Stats & Contribution Streak</h3>
 <p align="center">
-
 <a href="https://git.io/streak-stats">
   <img src="https://nirzak-streak-stats.vercel.app?user=AlbertoGhub&theme=dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </a>
-<p align="center">
+</p>
+
