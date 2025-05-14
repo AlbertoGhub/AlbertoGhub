@@ -72,9 +72,9 @@
 
 Here are a few highlighted repositories worth checking out:
 
-- 🔍 **[Chat with your PDF with a Streamlit interface]([https://github.com/AlbertoGhub/chat-with-your-pdf](https://github.com/AlbertoGhub/Personal-Summarizer-Ollama-LangChain_V2_Streamlit))** – A Streamlit app using RAG + Ollama + LangChain for document-based QA.
+- 🔍 **[Chat with your PDF with a Streamlit interface](https://github.com/AlbertoGhub/Personal-Summarizer-Ollama-LangChain_V2_Streamlit)** – A Streamlit app using RAG + Ollama + LangChain for document-based QA. 
 - 🧠 **[Loan Prediction](https://github.com/AlbertoGhub/Loan-Prediction)** – Tools and scripts to fine-tune LLMs on custom datasets.
-- 🌱🔋🤖🌍 **[Energy Consumption and Carbon Emission Forecasting](https://github.com/AlbertoGhub/Energy-Consumption-and-Carbon-Emission-Forecasting)** – Forecasting energy consumption and carbon emissions using machine learning for sustainable insights.
+- 🌱 **[Energy Consumption and Carbon Emission Forecasting](https://github.com/AlbertoGhub/Energy-Consumption-and-Carbon-Emission-Forecasting)** – Forecasting energy consumption and carbon emissions using machine learning for sustainable insights🔋.
 
 Feel free to explore more on my [GitHub repositories](https://github.com/AlbertoGhub?tab=repositories) page! 🚀
 
