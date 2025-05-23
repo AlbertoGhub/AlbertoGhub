@@ -15,7 +15,7 @@
 
 <h1 align="center">Hey there 👋</h1>
 
-<h3 align="center">AI/ML Engineer | M.Sc. in AI Technology | Passionate about LLMs, NLP & RAG Systems 🚀</h3>
+<h3 align="center">Data Scientist & AI/ML Engineer | M.Sc. in AI Technology | Passionate about LLMs, NLP & RAG Systems 🚀</h3>
 
 ---
 
