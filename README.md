@@ -48,15 +48,28 @@
 
 ### 📂 Featured Projects
 
-Here are a few highlighted repositories worth checking out:
+#### 🧠 Supervised Learning
+- 💳 [Credit Card Fraud Detection](https://github.com/AlbertoGhub/Credit-Card-Fraud-Detection) - Classifies fraudulent transactions in an imbalanced dataset.
+- 🎯 [Loan Prediction](https://github.com/AlbertoGhub/Loan-Prediction) - Predicts loan approval using customer financial data.
+- 📈 [Simple Linear Regression](https://github.com/AlbertoGhub/Simple_Linear_regression) - Introductory regression model for continuous predictions.
 
-- 🔍 **[Chat with your PDF with a Streamlit interface](https://github.com/AlbertoGhub/Personal-Summarizer-Ollama-LangChain_V2_Streamlit)** – A Streamlit app using RAG + Ollama + LangChain for document-based QA. 
-- 🧠 **[Loan Prediction](https://github.com/AlbertoGhub/Loan-Prediction)** – Tools and scripts to fine-tune LLMs on custom datasets.
-- 🌱 **[Energy Consumption and Carbon Emission Forecasting](https://github.com/AlbertoGhub/Energy-Consumption-and-Carbon-Emission-Forecasting)** – Forecasting energy consumption and carbon emissions using machine learning for sustainable insights🔋.
+#### 🔁 Time Series & Forecasting
+- 🔋 [Energy Consumption and Carbon Emission Forecasting](https://github.com/AlbertoGhub/Energy-Consumption-and-Carbon-Emission-Forecasting) - Predicts future trends in energy use and CO₂ emissions.
+- 📉 [Stock Price Prediction using TensorFlow](https://github.com/AlbertoGhub/Stock-Price-Prediction-Project-using-TensorFlow) - LSTM-based stock market forecasting.
 
-Feel free to explore more on my **[GitHub repositories](https://github.com/AlbertoGhub?tab=repositories)** page! 🚀
+#### 💬 LLMs & NLP
+- 📄 [Personal Summariser (V1) — Ollama + LangChain](https://github.com/AlbertoGhub/Personal-Summarizer-Ollama-LangChain_V1)  
+- 🧠 [Personal Summariser (V2) — Streamlit + Ollama](https://github.com/AlbertoGhub/Personal-Summarizer-Ollama-LangChain_V2_Streamlit)  
+  Streamlit app for document question-answering using local LLMs.
 
----
+#### 📊 Streamlit Apps
+- 📊 [Data Analysis Dashboard](https://github.com/AlbertoGhub/Data_analysis_with_streamlit) - A simple interactive EDA dashboard built with Streamlit.
+- 🏡 [Mortgage Calculator](https://github.com/AlbertoGhub/mortgage_calculator_Steamlit) - Interactive mortgage calculator using Python and Streamlit.
+
+#### 🗂️ Portfolio & Utilities
+- 🧑‍💼 **[GitHub repositories](https://github.com/AlbertoGhub?tab=repositories)** page! 🚀 
+  GitHub portfolio and central repository for project links.
+
 
 <h3 align="center">🔥 GitHub Stats & Contribution Streak</h3>
 <p align="center">
