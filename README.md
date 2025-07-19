@@ -66,10 +66,6 @@
 - 📊 [Data Analysis Dashboard](https://github.com/AlbertoGhub/Data_analysis_with_streamlit) - A simple interactive EDA dashboard built with Streamlit.
 - 🏡 [Mortgage Calculator](https://github.com/AlbertoGhub/mortgage_calculator_Steamlit) - Interactive mortgage calculator using Python and Streamlit.
 
-#### 🗂️ Portfolio & Utilities
-- 🧑‍💼 **[GitHub repositories](https://github.com/AlbertoGhub?tab=repositories)** page! 🚀 
-  GitHub portfolio and central repository for project links.
-
 
 <h3 align="center">🔥 GitHub Stats & Contribution Streak</h3>
 <p align="center">
