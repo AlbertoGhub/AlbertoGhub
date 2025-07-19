@@ -59,8 +59,8 @@
 
 #### 💬 LLMs & NLP
 - 📄 [Personal Summariser (V1) — Ollama + LangChain](https://github.com/AlbertoGhub/Personal-Summarizer-Ollama-LangChain_V1)  
-- 🧠 [Personal Summariser (V2) — Streamlit + Ollama](https://github.com/AlbertoGhub/Personal-Summarizer-Ollama-LangChain_V2_Streamlit)  
-  Streamlit app for document question-answering using local LLMs.
+- 🧠 [Personal Summariser (V2) — Streamlit + Ollama](https://github.com/AlbertoGhub/Personal-Summarizer-Ollama-LangChain_V2_Streamlit) - Streamlit app for document question-answering using local LLMs.
+- 🗳️ [Political Speech Analysis with BERTopic](https://github.com/AlbertoGhub/Topic-Modelling-BERTopic_Political_speech_analysis/tree/main) — Uncovers dominant themes and topic trends in political speeches using transformer-based topic modelling.
 
 #### 📊 Streamlit Apps
 - 📊 [Data Analysis Dashboard](https://github.com/AlbertoGhub/Data_analysis_with_streamlit) - A simple interactive EDA dashboard built with Streamlit.
